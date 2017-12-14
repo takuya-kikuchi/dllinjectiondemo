@@ -6,6 +6,9 @@
 
 int main()
 {
+	Inject();
+	
+	getchar();
     return 0;
 }
 
