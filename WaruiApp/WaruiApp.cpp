@@ -7,7 +7,7 @@
 int main()
 {
 	Inject();
-	
+	printf("I am WaruiApp!\n");
 	getchar();
     return 0;
 }
